@@ -1,4 +1,4 @@
-# Nathan-Haustveit.github.io
+## Nathan Haustveit Personal Portfolio
 
 Hello! This is a school repository created for a github assignment.
 
